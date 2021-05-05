@@ -37,7 +37,7 @@
     <img src="./assets/icons/png/32x32.png" alt="Logo">
   </a>
 
-  <h3 align="center">Pythagorean Calculator</h3>
+  <h3 align="center">Pythagorean Calculator Desktop</h3>
 
   <p align="center">
     Simple Pythagorean Theorem Calculator Native Desktop Application
@@ -68,6 +68,7 @@
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
+        <li><a href="#build-application">Build Application</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -195,7 +196,7 @@ start https://github.com/gspetillo/pythagorean-calculator-desktop/pulls
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the CC0-1.0 License. See `LICENSE` for more information.
 
 
 
