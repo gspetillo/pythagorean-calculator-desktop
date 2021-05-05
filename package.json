@@ -1,20 +1,19 @@
 {
-  "name": "electron-quick-start",
+  "name": "pythagorean-calculator",
+  "productName": "pythagorean-calculator",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "Simple Pythagoras Theorem Calculator",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/gspetillo/pythagorean-calculator-desktop",
   "keywords": [
     "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "Pythagoras Theorem",
+    "Calculator"
   ],
-  "author": "GitHub",
+  "author": "gspetillo",
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^12.0.6"
